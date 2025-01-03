@@ -60,7 +60,7 @@ Developed by: khamalraaj S RegisterNumber: 24901015
 ![Screenshot 2024-12-24 142655](https://github.com/user-attachments/assets/7d001530-463f-4d04-9915-1de565bd8aae)
 
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+**TIMING DIAGRAM FOR SISO Shift Register**
 
 ![Screenshot 2024-12-24 144112](https://github.com/user-attachments/assets/16887c3f-862c-44b4-8d80-5e2e53092990)
 
